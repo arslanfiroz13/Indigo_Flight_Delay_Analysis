@@ -29,20 +29,19 @@ It provides an interactive dashboard to explore delays, routes, and trends.
 
 Indigo_Flight_Delay_Analysis/
 │
-├── app.py                  # Streamlit dashboard
-├── requirements.txt       # Python dependencies
-├── README.md              # Project documentation
+├── app.py # Streamlit dashboard
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
 │
 ├── data/
-│   └── indigo_flights.csv # Dataset
+│ └── indigo_flights.csv # Dataset
 │
 ├── notebook/
-│   └── analysis.ipynb     # Jupyter analysis
+│ └── analysis.ipynb # Jupyter analysis
 │
 ├── sql/
-│   └── create_table.sql   # Database setup script
+│ └── create_table.sql # Database setup script
 
----
 
 ## ⚙️ How It Works
 
